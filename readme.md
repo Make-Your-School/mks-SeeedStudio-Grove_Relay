@@ -3,7 +3,7 @@ title: "Relaiskarte"
 date: "2018-10-01T14:28:00.000Z"
 tags: 
   - "output"
-coverImage: "48_relaiskarte.jpg"
+coverImage: "48_relaiskarte.png"
 material_number: "48"
 material_type: "output"
 material_short_descr: "Seeed Studio Grove – Relay"
