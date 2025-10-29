@@ -16,9 +16,6 @@ repo_part: "Grove_Relay"
 product_url: "https://wiki.seeedstudio.com/Grove-Relay/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Relay.git"
 embedded_example_file: "examples/Grove_Relay_minimal/Grove_Relay_minimal.ino"
-title: 'Relaiskarte'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
